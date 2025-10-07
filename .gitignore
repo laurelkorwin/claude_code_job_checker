@@ -1,0 +1,12 @@
+# Don't check in Claude permissions :P
+.claude/settings.local.json
+
+# Don't check in person-specific stuff
+context/linkedin_profile.pdf
+context/career_profile.md
+
+# Don't check in any jobs Claude found
+jobs
+
+# Don't check in PyCharm configs
+.idea
