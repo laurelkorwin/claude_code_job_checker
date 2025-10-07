@@ -27,6 +27,8 @@ Running the custom /check_jobs command will prompt Claude to go through a list o
    - First, type `/set_career_goals` and have Claude interview / guide you through the process to create your career profile
    - Add whatever websites you want Claude to check to the `company_websites.md` folder (formatting examples given)
    - Next, run the `/check_jobs` command whenever you want Claude to check your website list!
+9. **View the jobs found**
+    - To view the jobs found, the easiest way is likely to find the `jobs` folder under the `claude_code_job_checker` in your Finder, and then click on the .md file for each company (e.g. `kikoff.md`). It should open by default in TextEdit.
   
 # Some notes & words to the wise
 **Permissions**
